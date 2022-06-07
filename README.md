@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**AsuraW/AsuraW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	                 ___====-_  _-====___
+	           _--~~~#####//      \\#####~~~--_    This is my attic. I tend to
+	        _-~##########// (    ) \\##########~-_    avoid this place because
+	       -############//  :\^^/:  \\############-    of the dragons, but if
+	     _~############//   (@::@)   \\############~_   you are courageous
+	    ~#############((     \\//     ))#############~   enough, feel free to
+	   -###############\\    (^^)    //###############-   wander here at your
+	  -#################\\  / "" \  //#################-   own risk. Who knows,
+	 -###################\\/      \//###################-   maybe you will find
+	_#/:##########/\######(   /\   )######/\##########:\#_   some treasures.
+	:/ :#/\#/\#/\/  \#/\##\  :  :  /##/\#/  \/\#/\#/\#: \:
+	"  :/  V  V  "   V  \#\: :  : :/#/  V   "  V  V  \:  "           - aw
+	   "   "  "      "   \ : :  : : /   "      "  "   "
